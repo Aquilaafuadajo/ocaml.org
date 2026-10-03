@@ -1,0 +1,16 @@
+---
+title: A FUSE server for our in-house storage backend
+description: "The following is part of a series of posts about 2026 summer intern
+  projects\u2014for more, see \u201CWhat the interns have wrought, special jumbo 2026
+  edition\u201D"
+url: https://blog.janestreet.com/linux-engineering-depot-fuse-index/
+date: 2026-10-01T00:00:00-00:00
+preview_image: https://blog.janestreet.com/linux-engineering-depot-fuse-index/fuse.gif
+authors:
+- Jane Street Tech Blog
+source:
+---
+
+<p><em>The following is part of a series of posts about 2026 summer intern projects&mdash;for more, see <a href="https://blog.janestreet.com/wrought-2026/">&ldquo;What the interns have wrought, special jumbo 2026 edition&rdquo;</a></em></p>
+
+
